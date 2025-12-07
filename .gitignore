@@ -1,0 +1,19 @@
+# Python Virtual Environment
+venv/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Data Files (Too large for GitHub)
+*.csv
+*.xlsx
+*.json
+
+# Docker Volumes
+postgres_data/
+
+# IDE Settings
+.vscode/
+.dbeaver/
